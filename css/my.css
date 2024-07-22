@@ -58,3 +58,14 @@ a:visited{
 a:link {
   color: rgb(58, 11, 11);
 }
+
+.roundimg{
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  aling:center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
